@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://wilaterp.github.io/wilaterp.wilaterp
+Sitemap: https://wilaterp.github.io/app/wilaterp.wilaterp
+Sitemap: https://wilaterp.github.io/assets/wilaterp.wilaterp
+Sitemap: https://wilaterp.github.io/css/wilaterp.wilaterp
+Sitemap: https://wilaterp.github.io/includes/wilaterp.wilaterp
+Sitemap: https://wilaterp.github.io/item/wilaterp.wilaterp
+Sitemap: https://wilaterp.github.io/src/wilaterp.wilaterp
